@@ -65,7 +65,6 @@
     `http.host == "aku.pengen.pw"`
     
     ![5a](img/5a.png)
-    
     ![5b](img/5b.png)
     
     user: kakakgamtenk
@@ -106,7 +105,7 @@
     
     ![6d](img/6d.png)
     
-    ![6e](img/6d.png)
+    ![6e](img/6e.png)
 
 7.	Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut. Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
